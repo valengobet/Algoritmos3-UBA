@@ -1,0 +1,4 @@
+"includePath": [
+    "${workspaceFolder}/**",
+    "C:/path/to/your/library/include"
+],
